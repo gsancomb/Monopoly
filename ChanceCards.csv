@@ -1,0 +1,17 @@
+Description,amount,type,tile,house,hotel
+Advance to Illinois Avenue if you pass go collect $200,,move,Illinois Avenue,,
+Take a trip to Reading Railroad if you pass go collect $200,,move,Reading Railroad,,
+Advance to Boardwalk,,move,Boardwalk,,
+Advance to the nearest utility if Unowned you may buy it from the Bank. if Owned throw dice and pay owner a total 10 times amount thrown,,owned,utility,,
+Advance to St. Charles place collect $200,,move,St. Charles place,,
+Go back three spaces,,go_back,back_3,,
+Bank pays you dividend of $50,50,get,,,
+Your building loan matures collect $150,150,get,,,
+Go to jail. Go directly to jail do not pass "Go" do not collect $200,,jailed,Jail,,
+Get out of jail free. This card may be kept until needed or traded,,jail_freed,,,
+Advance to "Go" (collect $200),,move,Go,,
+Advance to the nearest railroad if Unowned you may buy it from the Bank. if Owned throw dice and pay owner twice the rental to which they are other wise entitled,,owned,railroad,,
+Advance to the nearest railroad if Unowned you may buy it from the Bank. if Owned throw dice and pay owner twice the rental to which they are other wise entitled,,owned,railroad,,
+Speeding fine $15,15,pay,,,
+You have been elected Chairman of the board pay each player $50,50,pay,,,
+Make general repairs on all your property for each house pay $25 for each hotel pay $100,,pay,,25,100

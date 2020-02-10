@@ -1,0 +1,14 @@
+Description,amount,type,house,hotel
+Pay school fees of $50, 50,pay
+Advance to go (collect $200),0,move
+Doctor's fees pay $50,50,pay
+Bank error in your favor collect,200,get
+From sale of stock you get $50,50,get
+Life insurance matures collect $100,100,get
+Get out of jail free. This card may be kept until needed or traded,,jail_free
+Pay hospital fees of $100,100,pay
+You are assed for street repairs,,house_pay,40,115
+You have won second prize at the beauty contest collect $10,10,get,,
+Income tax refund collect,20,get,,
+You inherit $100,100,get,,
+Holiday fund matures receive $100,100,get,,

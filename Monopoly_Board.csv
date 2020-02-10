@@ -1,0 +1,41 @@
+Name,Color,Money,Special,Starter_Rent,1_house,2_House,3_House,4_House,5_House,Morgage,House_Cost
+GO,Other,200,Start,,,,,,,
+Mediterranean avenue,brown,60,site,2,10,30,90,160,250,30,50
+Community chest,drawCards,,Community,,,,,,,
+Baltic Avenue,brown,60,site,4,20,60,180,320,450,30,50
+Income Tax,tax,200,tax,,,,,,,
+Reading railroad,railRoad,200,station,,,,,,,
+Oriental avenue,lightBlue,100,site,6,30,90,270,400,550,50,50
+Chance,drawCards,,chance,,,,,,,
+Vermont Avenue,lightBlue,100,site,6,30,90,270,400,550,50,50
+Connecticut Avenue,lightBlue,120,site,8,40,100,300,450,600,60,50
+Jail,other,,jail,,,,,,,
+St. Charles Place,purple,140,site,10,50,150,450,625,750,70,100
+Electric Company,utility,150,utility,,,,,,,
+States Avenue,purple,140,site,10,50,150,450,625,750,70,100
+Virginia Avenue,purple,160,site,12,60,180,500,700,900,80,100
+Pennsylvania Railroad,railroad,200,station,,,,,,,
+St. James Place,orange,180,site,14,70,200,550,750,950,90,100
+Community Chest,drawCards,,community,,,,,,,
+Tennessee Avenue,orange,180,site,14,70,200,550,750,950,90,100
+New York Avenue,orange,200,site,16,80,220,600,800,1000,100,100
+Free Parking,other,,None,,,,,,,
+Kentucky Avenue,red, 220,site,18,90,250,700,875,1050,110,150
+Chance,drawCards,,chance,,,,,,,
+Indiana Avenue,red,220,site,18,90,250,700,875,1050,110,150
+Illinois Avenue,red,240,site,20,100,300,750,925,1100,120,150
+B. & O. Railroad,railroad,200,station,,,,,,,
+Atlantic Avenue,yellow,260,site,22,110,330,800,975,1150,130,150
+Ventnor Avenue,yellow,260,site,22,110,330,800,975,1150,130,150
+Water Works,utility,150,utility,,,,,,,
+Marvin Gardens,yellow,280,site,24,120,360,850,1025,1200,140,150
+Go To Jail,other,,goToJail,,,,,,,
+Pacific Avenue,green,300,site,26,130,390,900,1100,1275,150,200
+North Carolina Avenue,green,300,site,26,130,390,900,1100,1275,150,200
+Community Chest,drawCards,,community,,,,,,,
+Pennsylvania Avenue,green,320,site,28,150,450,1000,1200,1400,160,200
+Short Line,railroad,200,station,,,,,,,
+Chance,drawCards,,chance,,,,,,,
+Park Place,blue,350,site,35,175,500,1100,1300,1500,175,200
+Luxury Tax,tax,100,tax,,,,,,,
+Boardwalk,blue,400,site,50,200,600,1400,1700,2000,200,200

@@ -1,0 +1,41 @@
+Name, Color, Money Earned, Money Lost, Special
+GO, Utility, 200, 0,
+Mediterranean avenue, brown, 0, 60,
+Community chest, drawCards, 0, 0,Community
+Baltic Avenue, brown, 0, 60,
+Income Tax, Tax, 0, 200,
+Reading railroad, railRoad, 0, 200,
+oriental avenue, lightBlue, 0, 100,
+Chance, drawCards, 0, 0, chance
+Vermont Avenue, lightBlue, 0, 100,
+connecticut Avenue, lightBlue, 0, 100,
+Jail
+St. Charles Place
+Electric Company
+States Avenue
+Virginia Avenue
+Pennsylvania Railroad
+St. James Place
+Community Chest
+Tennessee Avenue
+New York Avenue
+Free Parking, Utility, 0, ,
+Kentucky Avenue
+Chance
+Indiana Avenue
+Illinois Avenue
+B. & O. Railroad
+Atlantic Avenue
+Ventnor Avenue
+Water Works
+Marvin Gardens
+Go To Jail
+Pacific Avenue
+North Carolina Avenue
+Community Chest
+Pennsylvania Avenue
+Short Line
+Chance
+Park Place
+Luxury Tax
+Boardwalk

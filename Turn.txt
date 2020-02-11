@@ -1,0 +1,39 @@
+Roll dice
+Move
+Take tile based action
+if go or past collect 200
+if roll is double roll again (repeat 1-4)
+--if double 3 times go to jail
+pass dice to left
+
+Actions:
+collect rent
+auction
+build
+sell building
+morgage properties
+deal
+
+Done automatic
+collect rent
+roll dice
+
+menu
+Build on site
+--select property to build on
+Buy Site
+--Buy the current site?
+Sell site
+--select property to sell
+----select who to sell property to
+Mortgage Property
+--select property to mortgage
+Make a deal
+--Trade Site
+--Trade Utility
+--Trade Station
+--Trade get out of jail card
+send message
+-- select player
+----Write message
+
